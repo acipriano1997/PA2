@@ -1,0 +1,28 @@
+1. Output to the user that they are playing the Oregon Trail and the rules of the game, which is to make it from the
+East Coast to the Oregon Trail. This game is based in the 1800s, when the Oregon Trail was prominent. Users need to use
+purchased resources and hunting to survive (using a purchased rifle and bullets) , while also making sure they keep
+their cattle pulling the wagon (which may have to be repaired through purchased spare parts. Another issue for the
+settler is medical problems; the user must make sure they have enough bandages and medicine to survive the journey;
+the user loses if all oxen or all players die.
+2. The first step is to pick what profession you are; either a farmer, banker, or carpenter. This choice affects how
+much money you start with, amount of cattle, and amount of people in a family. A farmer starts with $5,000, 6 cattle,
+a cart that can carry 4 tons of goods, and their family is comprised of 3 people. A banker will start with $15,000,
+no cattle, a cart that can carry 4 tons of goods, and a family of 5. The carpenter starts with $8,000, 2 cattle, a cart
+that can carry 3 tons of goods (carpenters get a discounted price on spare parts), and 3 people to provide for.
+3. Once a user choses their profession, they will be prompted to enter their name, as well as their family members.
+4. The next prompt will have the user buy their supplies for their treacherous journey. The available items include
+cattle (priced at $500 per), meals (priced at $5 per), bandages (priced at $5 per), medicine (priced at $5 per), rifles
+(priced at $200 per), bullet cases (priced at $25 per), wheels (priced at $50 per, $25 for carpenter), and axels (priced
+at $50 per, $25 for carpenter).
+5. The next text will tell the user that they're beginning their journey.
+6. The user goes through one day of travel and have to face problems or choices. They could be prompted about a fork in
+the road, a river to cross, or even a family member or oxe injured or fallen sick. Users will come across trading towns
+along the way, which act as progression barometers. If the user chooses, they can barter with the locals for goods or
+pay a fee to stay for the night and be cured of all afflictions. At the end of a regular day, the user will be prompted
+on the health of the people and oxen, list of supplies, and condition of the cart. The user is then asked if they wish
+to hunt, which provides food for your family. In order to make a succesful kill, the user must solve math problems.
+Based on the size of the animal, you are allowed to take a portion of meat from each kill: the larger the animal, the
+harder the math problems. For a rabbit, you can take up to 2.5 meal rations, you can take up to 5.0 meal rations from a
+duck, a deer will provide a max of 10.0 meal rations, and a bear will output 20.0 meal rations.
+7. The user will have to endure this process for 30-40, depending on the routes they choose. If they reach Oregon, the
+game outputs "Congratulations", name, "You have reached Oregon!"; if not, the user is given "Better luck next time!"
